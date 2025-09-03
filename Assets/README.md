@@ -19,5 +19,7 @@ For example:
 
 Exceptions:
 * config.xcf, config-btn.png, config-hover.png, config-pushed.png (wrench images)
-    these are derrived from the [tango desktop project's](http://tango-project.org/) preferences-system.png
+    these are derrived from the [tango desktop project's][Tango] preferences-system.png
 
+
+[Tango]: https://web.archive.org/web/20201024165718/http://tango-project.org/
